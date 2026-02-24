@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me<br><br>Hi, I'm Naitik 👋  <br>A passionate frontend developer focused on building clean, interactive and performance-driven web experiences.<br><br>### 💻 Frontend Stack<br>- HTML5<br>- CSS3<br>- JavaScript (ES6+)<br>- GSAP (Animations & Motion Design)<br><br>I have built 10+ real-world projects, focusing on:<br>- Responsive design<br>- Smooth animations<br>- Modern UI/UX<br>- Performance optimization<br><br>### 🌱 Currently Learning<br>- Java<br>- Data Structures & Algorithms<br>- Backend Development<br><br>### 🎯 Mission<br>To become a world-class full-stack engineer and build scalable, impactful products.<br><br>Always learning. Always building. 🔥
 
 
